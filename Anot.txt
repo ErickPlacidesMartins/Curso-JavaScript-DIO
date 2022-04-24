@@ -1,0 +1,35 @@
+Aula 1
+
+o Javascript é uma linguagem interpretada
+
+Linguagem interpretada = rodando em tempo real
+Linguagem compilada = ex c++ precisa passar pelo compilador antes do output
+
+Multiparadigma/ web cient-side
+
+Segue padrão ECMAScript sendo a 1 em 1997/ 3 em 1999/ 5 em 2009/ 6 em 2015
+
+Aplicações : Web/ Mobile/ Smartwatches/ Games/ APIs
+
+// comentar em 1 linha usar //
+//comentar mais de uma linha usar ( ex /* bshcvgjdaj */  )
+// var y = 0 ; ou usar CLT+ Barra
+
+
+var preco = 2;
+var desconto = 0.2;
+const PRECO = 2; 
+var total = PRECO - desconto; 
+
+ function soma(a, b){
+console.log(a+b);
+return a+b;
+}
+
+//para chamar uma função segue o fluxo abaixo
+
+soma(3, 5); 
+
+
+
+
