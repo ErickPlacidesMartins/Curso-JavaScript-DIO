@@ -1,0 +1,13 @@
+Os operadores são representados por sinais ex +, - , /
+
+tipos : Aritimética / atribuição/ Comparação/ Lógica/ Condicional
+
+Atribuição:  =, +=, *=, (/=) , %=
+
+Comparação: ==, ===, !=, !==, <, >, <=, >=
+
+Logica: && = e logico, || = ou logico, != não logico
+
+Arimetica: +, - , / ,* , %, **
+
+Condicional: if , else
