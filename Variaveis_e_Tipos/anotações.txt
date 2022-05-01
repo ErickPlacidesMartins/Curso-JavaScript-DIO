@@ -1,0 +1,35 @@
+em JS é muito utilizado "Camel Case" nas funções / variaveis  ex: crieUmaFrase 
+ "Upper Case Snake Case" para constantes ex: CRIE_UMA_FRASE 
+
+ o var pode ser utilizado num scopo global
+ o let so funciona no scopo dentro de um bloco de comando
+
+
+const = Constantes são declaradas em SNAKE_UPPER_CASE escopo de bloco exemplo "const DAY_IN_A_WEWEK = 7 "
+
+Você não consegue reatribuir uma "const " o valor dela não muda ao longo do ciclo de vida do codigo, 
+não é possivel redeclarar um nome de const,
+
+As estruras de dados de JS são de tipagem dinâmica, antes de declarar o valor não precisa informar o tipo;
+Strings = texto e declarado dentro das aspas (" ")
+Number =  numeros podem ser declardo inteiros ou decimais e sem aspas
+Booleans =  true or false
+Arrays =  Lista iterável, indices, element, length usando []
+array.push() adicona elementos no final do array
+array.pop() retira elementos do final do array
+array.shift() retira o primeiro elemento da lista
+array.unshift() adicona no primerio da lista
+
+Objetos= É uma estrutra de dados do tipo "chave e valor" conforme exemplo abaixo;
+let person = {
+    name:"John"
+    age:20
+    };
+
+Empty = você declarou ela como 0 se for strings so aspas ""
+Undefined = esse valor não existe
+Null = quando propositalmente você quer o valor nulo
+
+let abacaxi ( faltou atribuir abacaxi a algo então é undefined)
+let abacaxi = "" ( deixo a string do abacaxi vazia então é Empty)
+ abacaxi = null ( você esta definindo ele como nulo)
